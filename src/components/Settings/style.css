@@ -1,0 +1,18 @@
+.settings {
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
+  right: -20rem;
+  width: 300px;
+}
+
+.settings-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  font-size: 2rem;
+}
+
+.close-form {
+  transform: rotate(45deg);
+}
